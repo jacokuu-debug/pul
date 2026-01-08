@@ -1,0 +1,90 @@
+{
+  "users": {
+    "8309765828": {
+      "username": "OnGDsLJs",
+      "balance": 0,
+      "ref": null
+    },
+    "5670994230": {
+      "username": "crpytouzb",
+      "balance": 0,
+      "ref": null
+    },
+    "6499472207": {
+      "username": "UC_GOJO",
+      "balance": 0,
+      "ref": null
+    },
+    "8237836050": {
+      "username": "adilkhhh",
+      "balance": 0,
+      "ref": null
+    },
+    "6864631898": {
+      "username": "Abduhakimovww",
+      "balance": 0,
+      "ref": null
+    },
+    "8306047278": {
+      "username": "Reaper_game1",
+      "balance": 0,
+      "ref": null
+    },
+    "6374354579": {
+      "username": "beg1anovv",
+      "balance": 0,
+      "ref": null
+    },
+    "8489591002": {
+      "username": "user",
+      "balance": 4,
+      "ref": null
+    },
+    "8055927598": {
+      "username": "Farrux182",
+      "balance": 0,
+      "ref": 8489591002
+    },
+    "6323451884": {
+      "username": "aki_aura7",
+      "balance": 0,
+      "ref": null
+    },
+    "8005187042": {
+      "username": "SULTAN65789",
+      "balance": 0,
+      "ref": null
+    },
+    "6850458666": {
+      "username": "maga_1o7",
+      "balance": 0,
+      "ref": null
+    }
+  },
+  "pendingPayments": {
+    "5670994230": {
+      "robux": 80,
+      "price": 14000
+    },
+    "6499472207": {
+      "robux": 120,
+      "price": 21000
+    },
+    "8237836050": {
+      "robux": 120,
+      "price": 21000
+    },
+    "6864631898": {
+      "robux": 40,
+      "price": 7000
+    },
+    "6323451884": {
+      "robux": 26400,
+      "price": 2620000
+    },
+    "8005187042": {
+      "robux": 200,
+      "price": 35000
+    }
+  }
+}
